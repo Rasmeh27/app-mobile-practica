@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+      "correct_answer": "Libra",
+      "incorrect_answers": [
+        "Gemini",
+        "Taurus",
+        "Capricorn"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Area 51 is located in which US state?",
+      "correct_answer": "Nevada",
+      "incorrect_answers": [
+        "Arizona",
+        "New Mexico",
+        "Utah"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Antibiotics are generally taken to combat what?",
+      "correct_answer": "Bacterial infections",
+      "incorrect_answers": [
+        "Viruses",
+        "Migraines",
+        "Muscular pains"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which country, not including Japan, has the most people of Japanese descent?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": [
+        "China",
+        "South Korea",
+        "United States of America"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+      "correct_answer": "Cabbage Patch Kids",
+      "incorrect_answers": [
+        "Transformers",
+        "Care Bears",
+        "Rubik&rsquo;s Cube"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which language is most widely spoken in Switzerland?",
+      "correct_answer": "German",
+      "incorrect_answers": [
+        "French",
+        "Italian",
+        "Swiss"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "In &quot;Shrek&quot;, what comedic actor voices Donkey?",
+      "correct_answer": "Eddie Murphy",
+      "incorrect_answers": [
+        "Chris Rock",
+        "Richard Pryor",
+        "Bernie Mac"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+      "correct_answer": "Truth",
+      "incorrect_answers": [
+        "Answer",
+        "Cause",
+        "Source"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which restaurant&#039;s mascot is a clown?",
+      "correct_answer": "McDonald&#039;s",
+      "incorrect_answers": [
+        "Whataburger",
+        "Burger King",
+        "Sonic"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What style of beer will typically have a higher than average hop content?",
+      "correct_answer": "India Pale Ale",
+      "incorrect_answers": [
+        "Stout",
+        "Extra Special Bitter",
+        "Scotch Ale"
+      ]
+    }
+  ]
+}

@@ -120,6 +120,966 @@
         "Extra Special Bitter",
         "Scotch Ale"
       ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of Italy?",
+      "correct_answer": "Rome",
+      "incorrect_answers": [
+        "Madrid",
+        "Lisbon",
+        "Athens"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "How many days are in a leap year?",
+      "correct_answer": "366",
+      "incorrect_answers": [
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which ocean is the largest?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the largest mammal?",
+      "correct_answer": "Blue whale",
+      "incorrect_answers": [
+        "Elephant",
+        "Giraffe",
+        "Hippopotamus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which country is famous for the Eiffel Tower?",
+      "correct_answer": "France",
+      "incorrect_answers": [
+        "Italy",
+        "Germany",
+        "Spain"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "How many continents are there?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the freezing point of water in Celsius?",
+      "correct_answer": "0°C",
+      "incorrect_answers": [
+        "10°C",
+        "32°C",
+        "100°C"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which language is mainly spoken in Brazil?",
+      "correct_answer": "Portuguese",
+      "incorrect_answers": [
+        "Spanish",
+        "French",
+        "Italian"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the smallest prime number?",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "5"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which instrument has black and white keys?",
+      "correct_answer": "Piano",
+      "incorrect_answers": [
+        "Violin",
+        "Trumpet",
+        "Flute"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What color do red and blue make?",
+      "correct_answer": "Purple",
+      "incorrect_answers": [
+        "Green",
+        "Orange",
+        "Brown"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "How many hours are in one day?",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "12",
+        "18",
+        "36"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of Japan?",
+      "correct_answer": "Tokyo",
+      "incorrect_answers": [
+        "Kyoto",
+        "Osaka",
+        "Nagoya"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which sport uses a racket and a shuttlecock?",
+      "correct_answer": "Badminton",
+      "incorrect_answers": [
+        "Baseball",
+        "Football",
+        "Golf"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which shape has three sides?",
+      "correct_answer": "Triangle",
+      "incorrect_answers": [
+        "Square",
+        "Circle",
+        "Rectangle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of Spain?",
+      "correct_answer": "Madrid",
+      "incorrect_answers": [
+        "Barcelona",
+        "Lisbon",
+        "Seville"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "How many minutes are in one hour?",
+      "correct_answer": "60",
+      "incorrect_answers": [
+        "30",
+        "90",
+        "100"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which country is home to the Great Pyramid of Giza?",
+      "correct_answer": "Egypt",
+      "incorrect_answers": [
+        "Greece",
+        "Italy",
+        "Turkey"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the capital of Germany?",
+      "correct_answer": "Berlin",
+      "incorrect_answers": [
+        "Munich",
+        "Hamburg",
+        "Vienna"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country uses the yen as its currency?",
+      "correct_answer": "Japan",
+      "incorrect_answers": [
+        "China",
+        "South Korea",
+        "Thailand"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo da Vinci",
+      "incorrect_answers": [
+        "Michelangelo",
+        "Raphael",
+        "Donatello"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the capital of Canada?",
+      "correct_answer": "Ottawa",
+      "incorrect_answers": [
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which element has the chemical symbol Au?",
+      "correct_answer": "Gold",
+      "incorrect_answers": [
+        "Silver",
+        "Copper",
+        "Iron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country contains the city of Istanbul?",
+      "correct_answer": "Turkey",
+      "incorrect_answers": [
+        "Greece",
+        "Egypt",
+        "Romania"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the longest river in South America?",
+      "correct_answer": "Amazon River",
+      "incorrect_answers": [
+        "Orinoco",
+        "Paraná",
+        "Magdalena"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Who wrote Hamlet?",
+      "correct_answer": "William Shakespeare",
+      "incorrect_answers": [
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the square root of 144?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "10",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which continent contains the Sahara Desert?",
+      "correct_answer": "Africa",
+      "incorrect_answers": [
+        "Asia",
+        "South America",
+        "Australia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "correct_answer": "France",
+      "incorrect_answers": [
+        "United Kingdom",
+        "Spain",
+        "Italy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "How many players from one team are normally on a soccer field?",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "9",
+        "10",
+        "12"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the official language of Austria?",
+      "correct_answer": "German",
+      "incorrect_answers": [
+        "French",
+        "Italian",
+        "Dutch"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country is home to Machu Picchu?",
+      "correct_answer": "Peru",
+      "incorrect_answers": [
+        "Chile",
+        "Bolivia",
+        "Ecuador"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which blood type is commonly called the universal red-cell donor?",
+      "correct_answer": "O negative",
+      "incorrect_answers": [
+        "AB positive",
+        "A positive",
+        "B negative"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which scientist developed the theory of relativity?",
+      "correct_answer": "Albert Einstein",
+      "incorrect_answers": [
+        "Isaac Newton",
+        "Nikola Tesla",
+        "Galileo Galilei"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the capital of Argentina?",
+      "correct_answer": "Buenos Aires",
+      "incorrect_answers": [
+        "Santiago",
+        "Lima",
+        "Montevideo"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country is home to the ancient city of Petra?",
+      "correct_answer": "Jordan",
+      "incorrect_answers": [
+        "Lebanon",
+        "Syria",
+        "Iraq"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the chemical symbol for sodium?",
+      "correct_answer": "Na",
+      "incorrect_answers": [
+        "So",
+        "S",
+        "N"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which sea lies between Europe and Africa?",
+      "correct_answer": "Mediterranean Sea",
+      "incorrect_answers": [
+        "Black Sea",
+        "Red Sea",
+        "Baltic Sea"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the capital of Switzerland?",
+      "correct_answer": "Bern",
+      "incorrect_answers": [
+        "Zurich",
+        "Geneva",
+        "Basel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which famous passenger liner sank in 1912?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": [
+        "Britannic",
+        "Lusitania",
+        "Bismarck"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the capital of New Zealand?",
+      "correct_answer": "Wellington",
+      "incorrect_answers": [
+        "Auckland",
+        "Christchurch",
+        "Hamilton"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which organ pumps blood through the human body?",
+      "correct_answer": "Heart",
+      "incorrect_answers": [
+        "Liver",
+        "Kidney",
+        "Lung"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which continent has the largest number of sovereign states?",
+      "correct_answer": "Africa",
+      "incorrect_answers": [
+        "Asia",
+        "Europe",
+        "South America"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country contains the city of Amsterdam?",
+      "correct_answer": "Netherlands",
+      "incorrect_answers": [
+        "Belgium",
+        "Germany",
+        "Denmark"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is the capital of Portugal?",
+      "correct_answer": "Lisbon",
+      "incorrect_answers": [
+        "Porto",
+        "Madrid",
+        "Braga"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which author wrote 1984?",
+      "correct_answer": "George Orwell",
+      "incorrect_answers": [
+        "Aldous Huxley",
+        "J. R. R. Tolkien",
+        "Ernest Hemingway"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "What is 15 percent of 200?",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "15",
+        "20",
+        "45"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which country contains the city of Prague?",
+      "correct_answer": "Czech Republic",
+      "incorrect_answers": [
+        "Poland",
+        "Austria",
+        "Hungary"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "question": "Which musical instrument normally has six strings?",
+      "correct_answer": "Guitar",
+      "incorrect_answers": [
+        "Flute",
+        "Trumpet",
+        "Clarinet"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the capital of Bhutan?",
+      "correct_answer": "Thimphu",
+      "incorrect_answers": [
+        "Paro",
+        "Kathmandu",
+        "Dhaka"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which country contains the ancient city of Samarkand?",
+      "correct_answer": "Uzbekistan",
+      "incorrect_answers": [
+        "Kazakhstan",
+        "Turkmenistan",
+        "Tajikistan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which philosopher wrote The Republic?",
+      "correct_answer": "Plato",
+      "incorrect_answers": [
+        "Aristotle",
+        "Socrates",
+        "Epicurus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the SI base unit of luminous intensity?",
+      "correct_answer": "Candela",
+      "incorrect_answers": [
+        "Lumen",
+        "Lux",
+        "Watt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the capital of Kyrgyzstan?",
+      "correct_answer": "Bishkek",
+      "incorrect_answers": [
+        "Tashkent",
+        "Dushanbe",
+        "Astana"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which artist painted The Persistence of Memory?",
+      "correct_answer": "Salvador Dalí",
+      "incorrect_answers": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Francisco Goya"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which mountain range is commonly used as part of the boundary between Europe and Asia?",
+      "correct_answer": "Ural Mountains",
+      "incorrect_answers": [
+        "Alps",
+        "Andes",
+        "Carpathians"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which treaty imposed peace terms on Germany after World War I?",
+      "correct_answer": "Treaty of Versailles",
+      "incorrect_answers": [
+        "Treaty of Utrecht",
+        "Treaty of Paris",
+        "Treaty of Tordesillas"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the capital of Burkina Faso?",
+      "correct_answer": "Ouagadougou",
+      "incorrect_answers": [
+        "Bamako",
+        "Niamey",
+        "Lomé"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which language family does Hungarian belong to?",
+      "correct_answer": "Uralic",
+      "incorrect_answers": [
+        "Slavic",
+        "Romance",
+        "Germanic"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which scientist formulated the uncertainty principle?",
+      "correct_answer": "Werner Heisenberg",
+      "incorrect_answers": [
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Max Planck"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which country contains Timbuktu?",
+      "correct_answer": "Mali",
+      "incorrect_answers": [
+        "Niger",
+        "Chad",
+        "Senegal"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Who composed The Four Seasons?",
+      "correct_answer": "Antonio Vivaldi",
+      "incorrect_answers": [
+        "Johann Sebastian Bach",
+        "Wolfgang Mozart",
+        "George Handel"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the capital of Suriname?",
+      "correct_answer": "Paramaribo",
+      "incorrect_answers": [
+        "Georgetown",
+        "Cayenne",
+        "Belmopan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which ancient civilization built Chichén Itzá?",
+      "correct_answer": "Maya",
+      "incorrect_answers": [
+        "Aztec",
+        "Inca",
+        "Olmec"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which metal has the highest electrical conductivity at room temperature?",
+      "correct_answer": "Silver",
+      "incorrect_answers": [
+        "Copper",
+        "Gold",
+        "Aluminum"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which country contains Lake Baikal?",
+      "correct_answer": "Russia",
+      "incorrect_answers": [
+        "Mongolia",
+        "China",
+        "Kazakhstan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the capital of Eritrea?",
+      "correct_answer": "Asmara",
+      "incorrect_answers": [
+        "Addis Ababa",
+        "Khartoum",
+        "Djibouti"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which novel begins with the words 'Call me Ishmael'?",
+      "correct_answer": "Moby-Dick",
+      "incorrect_answers": [
+        "Treasure Island",
+        "Robinson Crusoe",
+        "The Odyssey"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which country was historically known as Abyssinia?",
+      "correct_answer": "Ethiopia",
+      "incorrect_answers": [
+        "Eritrea",
+        "Sudan",
+        "Somalia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the capital of Moldova?",
+      "correct_answer": "Chișinău",
+      "incorrect_answers": [
+        "Bucharest",
+        "Sofia",
+        "Minsk"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which element has atomic number 74?",
+      "correct_answer": "Tungsten",
+      "incorrect_answers": [
+        "Titanium",
+        "Tantalum",
+        "Thorium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which empire was ruled by Mansa Musa?",
+      "correct_answer": "Mali Empire",
+      "incorrect_answers": [
+        "Songhai Empire",
+        "Ottoman Empire",
+        "Roman Empire"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which country contains Mount Elbrus?",
+      "correct_answer": "Russia",
+      "incorrect_answers": [
+        "Georgia",
+        "Turkey",
+        "Armenia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which mathematician is associated with the incompleteness theorems?",
+      "correct_answer": "Kurt Gödel",
+      "incorrect_answers": [
+        "David Hilbert",
+        "Alan Turing",
+        "Georg Cantor"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the capital of Brunei?",
+      "correct_answer": "Bandar Seri Begawan",
+      "incorrect_answers": [
+        "Kuala Lumpur",
+        "Jakarta",
+        "Manila"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which ocean current helps warm Western Europe?",
+      "correct_answer": "Gulf Stream",
+      "incorrect_answers": [
+        "Humboldt Current",
+        "Benguela Current",
+        "California Current"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Who wrote The Brothers Karamazov?",
+      "correct_answer": "Fyodor Dostoevsky",
+      "incorrect_answers": [
+        "Leo Tolstoy",
+        "Anton Chekhov",
+        "Ivan Turgenev"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "Which country contains the city of Bukhara?",
+      "correct_answer": "Uzbekistan",
+      "incorrect_answers": [
+        "Iran",
+        "Afghanistan",
+        "Pakistan"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "General Knowledge",
+      "question": "What is the capital of Tajikistan?",
+      "correct_answer": "Dushanbe",
+      "incorrect_answers": [
+        "Bishkek",
+        "Ashgabat",
+        "Tashkent"
+      ]
     }
   ]
 }

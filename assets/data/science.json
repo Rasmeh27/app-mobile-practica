@@ -120,6 +120,966 @@
         "Nokia",
         "IBM"
       ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What gas do plants absorb from the atmosphere?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Hydrogen",
+        "Helium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is H2O commonly called?",
+      "correct_answer": "Water",
+      "incorrect_answers": [
+        "Salt",
+        "Oxygen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which planet is closest to the Sun?",
+      "correct_answer": "Mercury",
+      "incorrect_answers": [
+        "Venus",
+        "Earth",
+        "Mars"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "How many bones are normally in an adult human body?",
+      "correct_answer": "206",
+      "incorrect_answers": [
+        "201",
+        "212",
+        "220"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What force keeps objects attracted to Earth?",
+      "correct_answer": "Gravity",
+      "incorrect_answers": [
+        "Magnetism",
+        "Friction",
+        "Electricity"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which organs are mainly used for breathing?",
+      "correct_answer": "Lungs",
+      "incorrect_answers": [
+        "Heart",
+        "Liver",
+        "Kidneys"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which part of a plant mainly absorbs water from soil?",
+      "correct_answer": "Roots",
+      "incorrect_answers": [
+        "Leaves",
+        "Flowers",
+        "Fruit"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the central part of an atom called?",
+      "correct_answer": "Nucleus",
+      "incorrect_answers": [
+        "Electron",
+        "Shell",
+        "Orbit"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which blood cells play a major role in fighting infections?",
+      "correct_answer": "White blood cells",
+      "incorrect_answers": [
+        "Red blood cells",
+        "Platelets",
+        "Plasma"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "correct_answer": "100°C",
+      "incorrect_answers": [
+        "0°C",
+        "50°C",
+        "212°C"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which star is closest to Earth?",
+      "correct_answer": "The Sun",
+      "incorrect_answers": [
+        "Sirius",
+        "Polaris",
+        "Betelgeuse"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the hardest naturally occurring substance?",
+      "correct_answer": "Diamond",
+      "incorrect_answers": [
+        "Gold",
+        "Iron",
+        "Quartz"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which vitamin can the human body produce in the skin after sunlight exposure?",
+      "correct_answer": "Vitamin D",
+      "incorrect_answers": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which part of the body contains the femur?",
+      "correct_answer": "Leg",
+      "incorrect_answers": [
+        "Arm",
+        "Skull",
+        "Chest"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which gas makes up most of Earth's atmosphere?",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the SI unit of electric current?",
+      "correct_answer": "Ampere",
+      "incorrect_answers": [
+        "Volt",
+        "Watt",
+        "Ohm"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the largest organ of the human body?",
+      "correct_answer": "Skin",
+      "incorrect_answers": [
+        "Liver",
+        "Brain",
+        "Lungs"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What type of animal is a frog?",
+      "correct_answer": "Amphibian",
+      "incorrect_answers": [
+        "Reptile",
+        "Mammal",
+        "Fish"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "What is the chemical symbol for oxygen?",
+      "correct_answer": "O",
+      "incorrect_answers": [
+        "Ox",
+        "Og",
+        "On"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science",
+      "question": "Which planet is most famous for its visible rings?",
+      "correct_answer": "Saturn",
+      "incorrect_answers": [
+        "Earth",
+        "Mars",
+        "Mercury"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical symbol for potassium?",
+      "correct_answer": "K",
+      "incorrect_answers": [
+        "P",
+        "Po",
+        "Pt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which organ produces insulin?",
+      "correct_answer": "Pancreas",
+      "incorrect_answers": [
+        "Liver",
+        "Kidney",
+        "Stomach"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What type of energy is stored in food?",
+      "correct_answer": "Chemical energy",
+      "incorrect_answers": [
+        "Kinetic energy",
+        "Sound energy",
+        "Light energy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the approximate pH of pure water at room temperature?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "5",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which subatomic particle has a negative electric charge?",
+      "correct_answer": "Electron",
+      "incorrect_answers": [
+        "Proton",
+        "Neutron",
+        "Photon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which major layer of Earth is liquid?",
+      "correct_answer": "Outer core",
+      "incorrect_answers": [
+        "Inner core",
+        "Crust",
+        "Lower mantle"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which organelle is often called the powerhouse of the cell?",
+      "correct_answer": "Mitochondrion",
+      "incorrect_answers": [
+        "Nucleus",
+        "Ribosome",
+        "Golgi apparatus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which law relates voltage, current and resistance?",
+      "correct_answer": "Ohm's law",
+      "incorrect_answers": [
+        "Newton's law",
+        "Boyle's law",
+        "Hooke's law"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which gas is consumed during aerobic cellular respiration?",
+      "correct_answer": "Oxygen",
+      "incorrect_answers": [
+        "Nitrogen",
+        "Helium",
+        "Methane"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the speed of light in vacuum approximately?",
+      "correct_answer": "300,000 km/s",
+      "incorrect_answers": [
+        "150,000 km/s",
+        "30,000 km/s",
+        "3,000 km/s"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which field of biology studies heredity?",
+      "correct_answer": "Genetics",
+      "incorrect_answers": [
+        "Ecology",
+        "Geology",
+        "Astronomy"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the main component of natural gas?",
+      "correct_answer": "Methane",
+      "incorrect_answers": [
+        "Ethane",
+        "Propane",
+        "Butane"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which blood vessels carry blood away from the heart?",
+      "correct_answer": "Arteries",
+      "incorrect_answers": [
+        "Veins",
+        "Capillaries",
+        "Lymph vessels"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the SI unit of force?",
+      "correct_answer": "Newton",
+      "incorrect_answers": [
+        "Joule",
+        "Pascal",
+        "Watt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which scientist is strongly associated with the theory of natural selection?",
+      "correct_answer": "Charles Darwin",
+      "incorrect_answers": [
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "James Watson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the main function of red blood cells?",
+      "correct_answer": "Transport oxygen",
+      "incorrect_answers": [
+        "Produce insulin",
+        "Digest food",
+        "Produce antibodies"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which electromagnetic radiation has the shortest wavelength?",
+      "correct_answer": "Gamma rays",
+      "incorrect_answers": [
+        "X-rays",
+        "Ultraviolet",
+        "Microwaves"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the chemical formula of sodium chloride?",
+      "correct_answer": "NaCl",
+      "incorrect_answers": [
+        "KCl",
+        "CaCO3",
+        "NaOH"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which part of the brain is strongly involved in balance and coordination?",
+      "correct_answer": "Cerebellum",
+      "incorrect_answers": [
+        "Cerebrum",
+        "Medulla",
+        "Hypothalamus"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the loss of water vapor from plant leaves called?",
+      "correct_answer": "Transpiration",
+      "incorrect_answers": [
+        "Respiration",
+        "Photosynthesis",
+        "Germination"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What is the SI unit of frequency?",
+      "correct_answer": "Hertz",
+      "incorrect_answers": [
+        "Newton",
+        "Pascal",
+        "Tesla"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which element is present at the center of hemoglobin's heme group?",
+      "correct_answer": "Iron",
+      "incorrect_answers": [
+        "Calcium",
+        "Magnesium",
+        "Sodium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which planet has the shortest orbital period around the Sun?",
+      "correct_answer": "Mercury",
+      "incorrect_answers": [
+        "Venus",
+        "Mars",
+        "Earth"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Who discovered penicillin?",
+      "correct_answer": "Alexander Fleming",
+      "incorrect_answers": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Joseph Lister"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which type of chemical bond involves sharing electron pairs?",
+      "correct_answer": "Covalent bond",
+      "incorrect_answers": [
+        "Ionic bond",
+        "Metallic bond",
+        "Hydrogen bond"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which tissue connects muscle to bone?",
+      "correct_answer": "Tendon",
+      "incorrect_answers": [
+        "Ligament",
+        "Cartilage",
+        "Epithelium"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which unit measures electrical resistance?",
+      "correct_answer": "Ohm",
+      "incorrect_answers": [
+        "Volt",
+        "Ampere",
+        "Watt"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which molecule stores hereditary information in most living organisms?",
+      "correct_answer": "DNA",
+      "incorrect_answers": [
+        "ATP",
+        "Glucose",
+        "Protein"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "What type of rock forms when magma or lava cools?",
+      "correct_answer": "Igneous",
+      "incorrect_answers": [
+        "Sedimentary",
+        "Metamorphic",
+        "Organic"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science",
+      "question": "Which process allows green plants to convert light energy into chemical energy?",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": [
+        "Respiration",
+        "Fermentation",
+        "Digestion"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which particle carries the electromagnetic force in quantum field theory?",
+      "correct_answer": "Photon",
+      "incorrect_answers": [
+        "Gluon",
+        "Neutrino",
+        "Muon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is Avogadro's constant approximately?",
+      "correct_answer": "6.022 × 10^23",
+      "incorrect_answers": [
+        "9.81 × 10^2",
+        "3.00 × 10^8",
+        "1.602 × 10^-19"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which thermodynamic law states that the entropy of an isolated system cannot spontaneously decrease?",
+      "correct_answer": "Second law of thermodynamics",
+      "incorrect_answers": [
+        "First law of thermodynamics",
+        "Zeroth law of thermodynamics",
+        "Boyle's law"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the approximate value of the gravitational constant G?",
+      "correct_answer": "6.67 × 10^-11 N·m²/kg²",
+      "incorrect_answers": [
+        "9.81 N/kg",
+        "3.00 × 10^8 m/s",
+        "1.38 × 10^-23 J/K"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which organelle modifies, sorts and packages many proteins?",
+      "correct_answer": "Golgi apparatus",
+      "incorrect_answers": [
+        "Lysosome",
+        "Nucleus",
+        "Centrosome"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the boundary beyond which events cannot affect an outside observer around a black hole?",
+      "correct_answer": "Event horizon",
+      "incorrect_answers": [
+        "Photon sphere",
+        "Accretion disk",
+        "Magnetosphere"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which quantum number describes the intrinsic angular momentum orientation of an electron?",
+      "correct_answer": "Spin quantum number",
+      "incorrect_answers": [
+        "Principal quantum number",
+        "Magnetic quantum number",
+        "Azimuthal quantum number"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI unit of magnetic flux density?",
+      "correct_answer": "Tesla",
+      "incorrect_answers": [
+        "Weber",
+        "Henry",
+        "Gauss"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which enzyme separates the two DNA strands during replication?",
+      "correct_answer": "Helicase",
+      "incorrect_answers": [
+        "Ligase",
+        "Amylase",
+        "Pepsin"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which subatomic particle has approximately zero electric charge?",
+      "correct_answer": "Neutron",
+      "incorrect_answers": [
+        "Proton",
+        "Electron",
+        "Positron"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the normal human arterial blood pH approximately?",
+      "correct_answer": "7.4",
+      "incorrect_answers": [
+        "6.0",
+        "8.5",
+        "5.5"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which law relates pressure and volume for a fixed amount of gas at constant temperature?",
+      "correct_answer": "Boyle's law",
+      "incorrect_answers": [
+        "Charles's law",
+        "Faraday's law",
+        "Hooke's law"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which process generates most ATP during aerobic respiration through the electron transport chain?",
+      "correct_answer": "Oxidative phosphorylation",
+      "incorrect_answers": [
+        "Glycolysis",
+        "Fermentation",
+        "Transcription"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which stellar spectral class has the highest surface temperature?",
+      "correct_answer": "O-type",
+      "incorrect_answers": [
+        "G-type",
+        "K-type",
+        "M-type"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which fundamental force binds quarks together?",
+      "correct_answer": "Strong nuclear force",
+      "incorrect_answers": [
+        "Weak nuclear force",
+        "Electromagnetic force",
+        "Gravity"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What defines the primary structure of a protein?",
+      "correct_answer": "Its amino acid sequence",
+      "incorrect_answers": [
+        "Its alpha helices",
+        "Its overall 3D shape",
+        "Its subunit arrangement"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which physicist developed the wave equation bearing his name in quantum mechanics?",
+      "correct_answer": "Erwin Schrödinger",
+      "incorrect_answers": [
+        "Niels Bohr",
+        "Max Born",
+        "Werner Heisenberg"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which part of the nephron is responsible for most filtered solute and water reabsorption?",
+      "correct_answer": "Proximal convoluted tubule",
+      "incorrect_answers": [
+        "Collecting duct",
+        "Bowman's capsule",
+        "Distal convoluted tubule"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which molecule is often described as the primary energy currency of cells?",
+      "correct_answer": "ATP",
+      "incorrect_answers": [
+        "DNA",
+        "RNA",
+        "Glucose"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which radioactive isotope is commonly used for dating once-living archaeological material?",
+      "correct_answer": "Carbon-14",
+      "incorrect_answers": [
+        "Carbon-12",
+        "Carbon-13",
+        "Carbon-11"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is the SI derived unit of pressure?",
+      "correct_answer": "Pascal",
+      "incorrect_answers": [
+        "Newton",
+        "Joule",
+        "Bar"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which type of RNA carries amino acids to a ribosome?",
+      "correct_answer": "tRNA",
+      "incorrect_answers": [
+        "mRNA",
+        "rRNA",
+        "miRNA"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is Earth's escape velocity at the surface approximately?",
+      "correct_answer": "11.2 km/s",
+      "incorrect_answers": [
+        "7.9 km/s",
+        "3.2 km/s",
+        "24.5 km/s"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which law describes electromagnetic induction?",
+      "correct_answer": "Faraday's law",
+      "incorrect_answers": [
+        "Coulomb's law",
+        "Hooke's law",
+        "Snell's law"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which cells can differentiate into plasma cells that secrete antibodies?",
+      "correct_answer": "B lymphocytes",
+      "incorrect_answers": [
+        "Red blood cells",
+        "Platelets",
+        "Neurons"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which process converts pyruvate into acetyl-CoA before the citric acid cycle?",
+      "correct_answer": "Pyruvate oxidation",
+      "incorrect_answers": [
+        "Glycolysis",
+        "Fermentation",
+        "Translation"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which element has the highest electronegativity on the Pauling scale?",
+      "correct_answer": "Fluorine",
+      "incorrect_answers": [
+        "Oxygen",
+        "Chlorine",
+        "Nitrogen"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "What is programmed cell death called?",
+      "correct_answer": "Apoptosis",
+      "incorrect_answers": [
+        "Necrosis",
+        "Mitosis",
+        "Meiosis"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which set of equations describes classical electromagnetism?",
+      "correct_answer": "Maxwell's equations",
+      "incorrect_answers": [
+        "Navier-Stokes equations",
+        "Einstein field equations",
+        "Euler equations"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science",
+      "question": "Which enzyme synthesizes RNA using DNA as a template?",
+      "correct_answer": "RNA polymerase",
+      "incorrect_answers": [
+        "DNA ligase",
+        "Helicase",
+        "Amylase"
+      ]
     }
   ]
 }

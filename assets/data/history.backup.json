@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What year is considered to be the year that the British Empire ended?",
+      "correct_answer": "1997",
+      "incorrect_answers": [
+        "1986",
+        "1981",
+        "1971"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What date was the first flight of the P-40 Warhawk?",
+      "correct_answer": "October 14 1938",
+      "incorrect_answers": [
+        "August 21 1939",
+        "January 12 1940",
+        "June 1 1939"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "The Spitfire L.F. Mk IX had what engine?",
+      "correct_answer": "Merlin 66",
+      "incorrect_answers": [
+        "Griffon 65",
+        "Merlin 50",
+        "Merlin X"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "The seed drill was invented by which British inventor?",
+      "correct_answer": "Jethro Tull",
+      "incorrect_answers": [
+        "Charles Babbage",
+        "Isaac Newton",
+        "J.J Thomson"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Which Greek god was the god of the Sun?",
+      "correct_answer": "Helios",
+      "incorrect_answers": [
+        "Zeus",
+        "Hades",
+        "Poseidon"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
+      "correct_answer": "Māori",
+      "incorrect_answers": [
+        "Papuans",
+        "Aborigines",
+        "Polynesians"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What number does the Roman numeral &quot;D&quot; stand for?",
+      "correct_answer": "500",
+      "incorrect_answers": [
+        "100",
+        "1000",
+        "50"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "The Thirty Years War ended with which treaty?",
+      "correct_answer": "Peace of Westphalia",
+      "incorrect_answers": [
+        "Treaty of Versailles",
+        "Treaty of Paris",
+        "Peace of Prague"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "In what year did the First World War end?",
+      "correct_answer": "1918",
+      "incorrect_answers": [
+        "1914",
+        "1916",
+        "1912"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "What year did Skoal, a smokeless Tobacco company, release their first line of Pouches, known as &quot;Skoal Bandits&quot;?",
+      "correct_answer": "1983",
+      "incorrect_answers": [
+        "1934",
+        "1984",
+        "1822"
+      ]
+    }
+  ]
+}
